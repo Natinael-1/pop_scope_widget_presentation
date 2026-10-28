@@ -1,5 +1,5 @@
-# pop_scope_widget_presentation
-# PopScope Demo
+
+# PopScope Widget Demo
 
 A small Flutter app that shows how `PopScope` stops a user from leaving a screen by mistake.
 
