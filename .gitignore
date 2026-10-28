@@ -1,0 +1,46 @@
+# Miscellaneous / Core Flutter
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+
+# IDE and Editor configurations
+.idea/
+*.iml
+.vscode/
+
+# Flutter generated files
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android specific
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+# iOS / macOS specific
+**/ios/**/*.mode1v3
+**/ios/**/default.pbxuser
+**/ios/**/ninja
+**/ios/**/xcshareddata/WorkspaceSettings.xcsettings
+**/ios/**/.generated/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+
+# Desktop (Windows / Linux) ephemeral files
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+
+# Operating System files
+.DS_Store
+Thumbs.db
